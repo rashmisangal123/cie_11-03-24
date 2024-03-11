@@ -1,9 +1,8 @@
-
-public class Students_course_information {
-    public String course1 ="c programming";
-    public String course2 ="devops";
-    public String marks1 ="c programming";
-    public String marks2 ="c programming";
+class Student_course_information{
+    static String course1 = "c programming";
+    static String course2 = "c programming";
+    static int  Marks1 = 80;
+     static int Marks2 = 90;
+    
+    
 }
-
-
